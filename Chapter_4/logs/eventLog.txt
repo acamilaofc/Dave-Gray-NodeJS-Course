@@ -1,0 +1,2 @@
+08/05/2022	21:12:47	8a6c7ab4-45e6-4a7a-98a4-6b9ac03aae77	Log event emitted!
+08/05/2022	21:12:57	dedc722b-4ea6-4309-bbf6-3260bc9049fd	Log event emitted!
